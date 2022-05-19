@@ -1,0 +1,1 @@
+package com.example.receiptserviceimport org.springframework.boot.autoconfigure.SpringBootApplicationimport org.springframework.boot.runApplication@SpringBootApplicationopen class RabbitworkerApplicationfun main(args: Array<String>) {	runApplication<RabbitworkerApplication>(*args)}
