@@ -1,0 +1,1 @@
+package com.example.receiptservice;public class tempMain {    public static void main(String[] args) {        PDFMaker pdf = new PDFMaker("kvitto");    }}
